@@ -1,0 +1,27 @@
+html {
+    background-color: aqua;
+}
+
+.pai {
+    background-color: white;
+    width: 600px;
+    height: 250px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.caixa {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.titulo {
+    font-family: cursive;
+}
+
+.corPadrao {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
